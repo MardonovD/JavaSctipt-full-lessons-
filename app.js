@@ -52,11 +52,14 @@ console.log(email.indexOf("o")); //--> birinchi kelgan o ni olyapdi
 
 //slice()
 console.log(email.slice(0, 2)); //-- > Ikki kirmaydi oraliqda
-console.log(email.slice(5));// --> bu 5 symboldan keyingi barcha symbollarni oladi
+console.log(email.slice(5)); // --> bu 5 symboldan keyingi barcha symbollarni oladi
 console.log(email); //-> uzgarmadi demak slice immutable ekan.
-//substr()
+
+//substr() pachti slice bilan bir xil ishlidi.
+console.log(email.substr(2, 5)); // --> 2 chi symboldan boshlab beshta sym bol oladi
 
 //replace()
+console.log(email.replace("m", "n")); // uzgartirish uchun symvollarni uzgartirib variableni burunligicha qaytaradi.
 
 //charAt()
 
