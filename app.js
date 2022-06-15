@@ -64,8 +64,11 @@ console.log(email.replace("m", "n")); // uzgartirish uchun symvollarni uzgartiri
 //charAt() -- > bu doimo birinchi symbolni olish uchun ishlatiladi.
 console.log(email.charAt());
 
-//toUpperCase() and toLowerCase()
+//toUpperCase() and toLowerCase() --> katta va kichik qilish uchun kerak..
+console.log(email.toLowerCase());
+console.log(email.toUpperCase());
 
-//trim()
+//trim() --> bu boshi va oxiridagi bush joylarni olib tashlaydi karoche... (probellarni...)
+console.log(email.trim());
 
 //splice()
