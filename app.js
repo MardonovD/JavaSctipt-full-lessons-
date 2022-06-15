@@ -93,3 +93,7 @@ console.log(joy);*/
 // console.log(5 / "Doston");
 // console.log("the blog " + radius + " likes");
 
+////////////////////////////////////// 12-dars/////////////////////////
+const title = "Rastamochka qachon ochiladi ? ! Yohud Monopoliya Respublikasi !";
+const author = "Lag'man markazi";
+const likes = 35000000;
