@@ -23,3 +23,10 @@ console.log(fullName[0]);
 
 //getting length
 console.log(fullName.length);
+
+//string methods => funcsiyaga uxshash ish bajaradi.
+// Harflarni kotta qiladi toUpperCase();
+console.log(fullName.toUpperCase());
+//kichik Haft qilib beradi toLowerCase();
+let kichikHarf = fullName.toLowerCase();
+console.log(kichikHarf);
