@@ -45,13 +45,15 @@ let email = "mardonovdoston69@gmail.com";
 // Ko'p ishlatiladigan String methodlari...
 
 //lastIndexOf()
-console.log(email.lastIndexOf("o")); //--> Oxirgi kelgan o ni olmoqda 
+console.log(email.lastIndexOf("o")); //--> Oxirgi kelgan o ni olmoqda
 
 //indexOf() --> birinchi kelgan natijani oladi.
 console.log(email.indexOf("o")); //--> birinchi kelgan o ni olyapdi
 
 //slice()
-
+console.log(email.slice(0, 2)); //-- > Ikki kirmaydi oraliqda
+console.log(email.slice(5));// --> bu 5 symboldan keyingi barcha symbollarni oladi
+console.log(email); //-> uzgarmadi demak slice immutable ekan.
 //substr()
 
 //replace()
