@@ -76,7 +76,7 @@ console.log(joy);*/
 
 ////////////////////////////////11-DARS///////////////////////////////////////////////
 // Math operators  + , -  , * , / ;
-let radius = 10;
+// let radius = 10;
 // const pi = 3.14;
 
 // Qoldiqli Bo'lish %
@@ -90,4 +90,6 @@ let radius = 10;
 // console.log(radius);
 
 //NaN - not a number --> number emas degani..
-console.log(5 / "Doston");
+// console.log(5 / "Doston");
+// console.log("the blog " + radius + " likes");
+
