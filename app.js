@@ -40,3 +40,26 @@ let fullName = ism + " " + familiya;
 // agar berilgan malumotni topa olmasa -1 qayataradi...
 // console.log(index);
 // console.log(indexFull);
+
+let email = "mardonovdoston69@gmail.com";
+// Ko'p ishlatiladigan String methodlari...
+
+//lastIndexOf()
+console.log(email.lastIndexOf("o")); //--> Oxirgi kelgan o ni olmoqda 
+
+//indexOf() --> birinchi kelgan natijani oladi.
+console.log(email.indexOf("o")); //--> birinchi kelgan o ni olyapdi
+
+//slice()
+
+//substr()
+
+//replace()
+
+//charAt()
+
+//toUpperCase() and toLowerCase()
+
+//trim()
+
+//splice()
