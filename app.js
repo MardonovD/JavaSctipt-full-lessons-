@@ -61,7 +61,8 @@ console.log(email.substr(2, 5)); // --> 2 chi symboldan boshlab beshta sym bol o
 //replace()
 console.log(email.replace("m", "n")); // uzgartirish uchun symvollarni uzgartirib variableni burunligicha qaytaradi.
 
-//charAt()
+//charAt() -- > bu doimo birinchi symbolni olish uchun ishlatiladi.
+console.log(email.charAt());
 
 //toUpperCase() and toLowerCase()
 
