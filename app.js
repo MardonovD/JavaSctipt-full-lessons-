@@ -71,4 +71,5 @@ console.log(email.toUpperCase());
 //trim() --> bu boshi va oxiridagi bush joylarni olib tashlaydi karoche... (probellarni...)
 console.log(email.trim());
 
-//splice()
+//split()  --> stringni bulinb tashalaydi symvollarga 
+console.log(email.split(""));
