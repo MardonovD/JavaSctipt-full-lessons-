@@ -3,5 +3,9 @@
 // yosh = 21;
 // console.log(ism, yosh);
 
-const familiya = "Mardonov";
+/*const familiya = "Mardonov";
 console.log(familiya);
+
+var joy = "Bukhara";
+joy = "Toshkent";
+console.log(joy);*/
