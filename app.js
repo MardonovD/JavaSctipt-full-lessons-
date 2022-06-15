@@ -97,3 +97,13 @@ console.log(joy);*/
 const title = "Rastamochka qachon ochiladi ? ! Yohud Monopoliya Respublikasi !";
 const author = "Lag'man markazi";
 const likes = 35000000;
+
+const natija =
+  "Bu post nomi:  " +
+  title +
+  author +
+  "  Tomonidan Yozilgan." +
+  " " +
+  likes +
+  "  To'plagan";
+console.log(natija);
